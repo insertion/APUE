@@ -1,5 +1,6 @@
 *.exe
 find
+mycp
 .vscode
 *.out
 *.o
