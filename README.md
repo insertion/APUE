@@ -1,6 +1,6 @@
-Find Utility
+APUE Utility
 ============
-Simple Unix find utility implementation.
+Simple Unix utility implementation.
 
 Installation
 ------------
